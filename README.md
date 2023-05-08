@@ -17,7 +17,7 @@ This project is a quiz application developed using Java Swing. It allows users t
    - The application maintains a leaderboard to display high scores and rankings.
 
 ## Screenshots 
-- select Modes
+- select mode
 
 ![image](https://user-images.githubusercontent.com/94105472/236763243-d3be5ff8-902a-4f93-b373-7587786dc5d5.png)
 
@@ -33,7 +33,7 @@ This project is a quiz application developed using Java Swing. It allows users t
 
 ![image](https://user-images.githubusercontent.com/94105472/236763901-29404579-0a08-41b4-bd8e-b2c538507e90.png)
 
-- Leaderboard
+- leaderboard
 
 ![image](https://user-images.githubusercontent.com/94105472/236765100-8a87c086-550d-4b92-845a-2dd6eddaf62f.png)
 
